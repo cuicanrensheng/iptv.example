@@ -1,7 +1,7 @@
- <resources>
+<resources>
     <string name="app_name">IPTV直播</string>
-    <string name="live_url">https://gitee.com/qf_1111/iptv/raw/master/华夏 .m3u8</string>
-    <string name="live_url2">https://raw.githubusercontent.com/cuicanrensheng/IPTV/refs/heads/main/电视直播源.txt</string>
+    <string name="live_url">https://gitee.com/qf_1111/iptv/raw/master/%E5%8F%AF%E7%94%A8%20.m3u8%E7%9B%B4%E6%92%AD%E6%BA%90%E6%BA%901</string>
+    <string name="live_url2">https://raw.githubusercontent.com/cuicanrensheng/IPTV/refs/heads/main/%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%E6%BA%90.txt%E7%9B%B4%E6%92%AD%E6%BA%90%E6%BA%902</string>
     <string name="loading">加载中…</string>
     <string name="play_error">播放失败，请检查网络</string>
 </resources>
