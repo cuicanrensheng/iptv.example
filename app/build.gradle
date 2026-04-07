@@ -1,3 +1,6 @@
+plugins {
+    id 'com.android.application'
+}
 android {
     namespace "com.example.iptv"
     compileSdk 33
